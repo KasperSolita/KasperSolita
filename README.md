@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning some Angular & Cloud technologies
 - 📫 How to reach me: kasper.toetenel@solita.fi
 
+## Technologies:
 
 ## Certifications:
 <a href="https://www.snaplogic.com/services/education/certifications/integrator"><img src="https://img.shields.io/badge/SnapLogic-certified-green.svg"/></a>
