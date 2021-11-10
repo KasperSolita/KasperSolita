@@ -6,8 +6,12 @@
 
 
 ## Certifications:
-<a href="https://postgresql.org"><img src="https://img.shields.io/badge/SnapLogic-certified-green.svg"/></a>
-<a href="https://postgresql.org"><img src="https://img.shields.io/badge/Mulesoft-certified-blue.svg"/></a>
+<a href="https://www.snaplogic.com/services/education/certifications/integrator"><img src="https://img.shields.io/badge/SnapLogic-certified-green.svg"/></a>
+<a href="https://training.mulesoft.com/certification/developer-mule4-level1"><img src="https://img.shields.io/badge/Mulesoft-certified-blue.svg"/></a>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/"><img src="https://img.shields.io/badge/Azure--Fundamentals-certified-blue.svg"/></a>
+<a href="https://train.boomi.com/courses/9d66ce66-de8e-467c-95b5-89b90adac8c6"><img src="https://img.shields.io/badge/Boomi--associate--developer-certified-orange.svg"/></a>
+<a href="https://train.boomi.com/courses/9d66ce66-de8e-467c-95b5-89b90adac8c6"><img src="https://img.shields.io/badge/Boomi--associate--developer-certified-blue.svg"/></a>
+
 
 ## Goals:
 <a href="https://postgresql.org"><img src="https://img.shields.io/badge/OCI--Foundations-not--certified-red.svg"/></a>
