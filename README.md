@@ -1,3 +1,4 @@
+# About me:
 - 👋 Hi, I’m @KasperSolita
 - 👀 I’m interested in making in an impact that lasts
 - 🌱 I’m currently learning some Angular & Cloud technologies
@@ -7,6 +8,9 @@
 ## Certifications:
 <a href="https://postgresql.org"><img src="https://img.shields.io/badge/SnapLogic-certified-green.svg"/></a>
 <a href="https://postgresql.org"><img src="https://img.shields.io/badge/Mulesoft-certified-blue.svg"/></a>
+
+## Goals:
+<a href="https://postgresql.org"><img src="https://img.shields.io/badge/OCI--Foundations-not--certified-red.svg"/></a>
 
 <!---
 KasperSolita/KasperSolita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
