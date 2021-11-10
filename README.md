@@ -14,9 +14,19 @@
 
 
 ## Goals:
+### Integration:
+<a href="https://knowledge.softwareag.com/enrol/index.php?id=1742"><img src="https://img.shields.io/badge/Software--AG-not--certified-blue.svg"/></a>
+
+### Cloud:
 <a href="https://learn.oracle.com/ols/learning-path/become-an-oci-foundation-associate/35644/98057"><img src="https://img.shields.io/badge/OCI--Foundations-in--training-red.svg"/></a>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS--Cloud--Practioner-next--up-orange.svg"/></a>
 
+### Data:
+<a href="https://www.snowflake.com/certifications"><img src="https://img.shields.io/badge/Snowpro--Core-not-certified-red.svg"/></a>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/"><img src="https://img.shields.io/badge/Azure--Data--Fundamentals-not-certified-blue.svg"/></a>
+
+### AI/ML:
+<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/"><img src="https://img.shields.io/badge/Azure--AI--Fundamentals-not-certified-blue.svg"/></a>
 
 <!---
 KasperSolita/KasperSolita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
