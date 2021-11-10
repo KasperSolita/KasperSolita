@@ -14,7 +14,9 @@
 
 
 ## Goals:
-<a href="https://postgresql.org"><img src="https://img.shields.io/badge/OCI--Foundations-not--certified-red.svg"/></a>
+<a href="https://learn.oracle.com/ols/learning-path/become-an-oci-foundation-associate/35644/98057"><img src="https://img.shields.io/badge/OCI--Foundations-in--training-red.svg"/></a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS--Cloud--Practioner-next--up-orange.svg"/></a>
+
 
 <!---
 KasperSolita/KasperSolita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
