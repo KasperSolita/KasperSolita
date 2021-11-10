@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KasperSolita
 - 👀 I’m interested in making in an impact that lasts
-- 🌱 I’m currently learning SnapLogic
+- 🌱 I’m currently learning some Angular & Cloud technologies
 - 📫 How to reach me: kasper.toetenel@solita.fi
 
 <!---
