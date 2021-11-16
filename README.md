@@ -26,7 +26,7 @@
 <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/"><img src="https://img.shields.io/badge/Azure--Data--Fundamentals-not--certified-red.svg"/></a>
 
 ### AI/ML:
-<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/"><img src="https://img.shields.io/badge/Azure--AI--Fundamentals-not--certified-red.svg"/></a>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/"><img src="https://img.shields.io/badge/Azure--AI--Fundamentals-in--training-blue.svg"/></a>
 
 <!---
 KasperSolita/KasperSolita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
