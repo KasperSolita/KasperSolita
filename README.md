@@ -11,6 +11,8 @@
 <a href="https://train.boomi.com/courses/9d66ce66-de8e-467c-95b5-89b90adac8c6"><img src="https://img.shields.io/badge/Boomi--developer-certified-green.svg"/></a>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/"><img src="https://img.shields.io/badge/Azure--Fundamentals-certified-green.svg"/></a>
 <a href="https://www.scrum.org/user/909804/assessments"><img src="https://img.shields.io/badge/PSM--1-certified-green.svg"/></a>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/"><img src="https://img.shields.io/badge/Azure--AI--Fundamentals-certified-green.svg"/></a>
+
 
 <!-- ## Technologies: -->
 
@@ -27,7 +29,6 @@
 <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/"><img src="https://img.shields.io/badge/Azure--Data--Fundamentals-not--certified-red.svg"/></a>
 
 ### AI/ML:
-<a href="https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/"><img src="https://img.shields.io/badge/Azure--AI--Fundamentals-in--training-blue.svg"/></a>
 
 <!---
 KasperSolita/KasperSolita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
