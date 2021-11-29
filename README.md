@@ -28,9 +28,5 @@
 <a href="https://www.snowflake.com/certifications"><img src="https://img.shields.io/badge/Snowpro--Core-not--certified-red.svg"/></a>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/"><img src="https://img.shields.io/badge/Azure--Data--Fundamentals-not--certified-red.svg"/></a>
 
-### AI/ML:
-
-<!---
-KasperSolita/KasperSolita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### AI/ML/Extra:
+<a href="https://docs.microsoft.com/en-gb/learn/certifications/azure-iot-developer-specialty/"><img src="https://img.shields.io/badge/Azure--IoT--Speciality-in--training-blue.svg"/></a>
