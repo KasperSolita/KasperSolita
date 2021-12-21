@@ -30,3 +30,5 @@
 
 ### AI/ML/Extra:
 <a href="https://docs.microsoft.com/en-gb/learn/certifications/azure-iot-developer-specialty/"><img src="https://img.shields.io/badge/Azure--IoT--Speciality-in--training-blue.svg"/></a>
+<a href="https://docs.microsoft.com/en-gb/learn/certifications/exams/sc-900"><img src="https://img.shields.io/badge/Azure--Security,--Compliance--and--Identity--Fundamentals-next--up-orange.svg"/></a>
+Microsoft Security, Compliance, and Identity Fundamentals
