@@ -13,6 +13,7 @@
 <a href="https://www.scrum.org/user/909804/assessments"><img src="https://img.shields.io/badge/PSM--1-certified-green.svg"/></a>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/"><img src="https://img.shields.io/badge/Azure--AI--Fundamentals-certified-green.svg"/></a>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/"><img src="https://img.shields.io/badge/Azure--Data--Fundamentals-certified-green.svg"/></a>
+<a href="https://learn.oracle.com/ols/learning-path/become-an-oci-foundation-associate/35644/98057"><img src="https://img.shields.io/badge/OCI--Foundations-certified-green.svg"/></a>
 
 <!-- ## Technologies: -->
 
@@ -21,7 +22,6 @@
 <a href="https://knowledge.softwareag.com/enrol/index.php?id=1742"><img src="https://img.shields.io/badge/Software--AG-not--certified-red.svg"/></a>
 
 ### Cloud:
-<a href="https://learn.oracle.com/ols/learning-path/become-an-oci-foundation-associate/35644/98057"><img src="https://img.shields.io/badge/OCI--Foundations-in--training-blue.svg"/></a>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204"><img src="https://img.shields.io/badge/Azure--Developer--Associate-in--training-blue.svg"/></a>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS--Cloud--Practioner-not--certified-red.svg"/></a>
 
