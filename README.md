@@ -24,6 +24,7 @@
 
 ### Cloud:
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS--Cloud--Practioner-not--certified-red.svg"/></a>
+<a href="https://cloud.google.com/certification/cloud-digital-leader"><img src="https://img.shields.io/badge/Google--Cloud--Digital--Leader-next--up-orange.svg"/></a>
 
 ### Data:
 <a href="https://www.snowflake.com/certifications"><img src="https://img.shields.io/badge/Snowpro--Core-not--certified-red.svg"/></a>
