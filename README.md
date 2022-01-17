@@ -1,7 +1,7 @@
 # About me:
 - 👋 Hi, I’m @KasperSolita
 - 👀 I’m interested in making in an impact that lasts
-- 🌱 I’m currently learning some Angular & Cloud technologies
+- 🌱 I’m currently learninging for the SC-900 Exam
 - 🦺 For the moment i am working on the common components refacor and the exam simulator [Internal Project]
 - 📫 How to reach me: kasper.toetenel@solita.fi
 
