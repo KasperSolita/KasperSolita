@@ -15,6 +15,7 @@
 <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/"><img src="https://img.shields.io/badge/Azure--Data--Fundamentals-certified-green.svg"/></a>
 <a href="https://learn.oracle.com/ols/learning-path/become-an-oci-foundation-associate/35644/98057"><img src="https://img.shields.io/badge/OCI--Foundations-certified-green.svg"/></a>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204"><img src="https://img.shields.io/badge/Azure--Developer--Associate-certified-green.svg"/></a>
+<a href="https://docs.microsoft.com/en-gb/learn/certifications/exams/sc-900"><img src="https://img.shields.io/badge/Azure--Security,--Compliance--and--Identity--Fundamentals-certified-green.svg"/></a>
 
 <!-- ## Technologies: -->
 
@@ -31,4 +32,3 @@
 
 ### Extra:
 <a href="https://docs.microsoft.com/en-gb/learn/certifications/azure-iot-developer-specialty/"><img src="https://img.shields.io/badge/Azure--IoT--Speciality-in--training-blue.svg"/></a>
-<a href="https://docs.microsoft.com/en-gb/learn/certifications/exams/sc-900"><img src="https://img.shields.io/badge/Azure--Security,--Compliance--and--Identity--Fundamentals-certified-green.svg"/></a>
