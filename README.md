@@ -1,8 +1,8 @@
 # About me:
 - 👋 Hi, I’m @KasperSolita
 - 👀 I’m interested in making in an impact that lasts
-- 🌱 I’m currently learninging for the SC-900 Exam
-- 🦺 For the moment i am working on the common components refacor and the exam simulator [Internal Project]
+- 🌱 I’m currently learninging for the AZ-104 Exam
+- 🦺 For the moment i am working on a full refactor af the exam simulator. I am also guiding the interns with their darts project and i am also in workday training [All Internal Projects]
 - 📫 How to reach me: kasper.toetenel@solita.fi
 
 ## Certifications:
