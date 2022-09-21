@@ -16,6 +16,7 @@
 <a href="https://learn.oracle.com/ols/learning-path/become-an-oci-foundation-associate/35644/98057"><img src="https://img.shields.io/badge/OCI--Foundations-certified-green.svg"/></a>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204"><img src="https://img.shields.io/badge/Azure--Developer--Associate-certified-green.svg"/></a>
 <a href="https://docs.microsoft.com/en-gb/learn/certifications/exams/sc-900"><img src="https://img.shields.io/badge/Azure--Security,--Compliance--and--Identity--Fundamentals-certified-green.svg"/></a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS--Cloud--Practioner-certified-green.svg"/></a>
 
 <!-- ## Technologies: -->
 
@@ -24,7 +25,7 @@
 <a href="https://knowledge.softwareag.com/enrol/index.php?id=1742"><img src="https://img.shields.io/badge/Software--AG-not--certified-red.svg"/></a>
 
 ### Cloud:
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS--Cloud--Practioner-not--certified-red.svg"/></a>
+
 <a href="https://cloud.google.com/certification/cloud-digital-leader"><img src="https://img.shields.io/badge/Google--Cloud--Digital--Leader-next--up-orange.svg"/></a>
 
 ### Data:
