@@ -32,4 +32,4 @@
 <a href="https://www.snowflake.com/certifications"><img src="https://img.shields.io/badge/Snowpro--Core-not--certified-red.svg"/></a>
 
 ### Extra:
-<a href="https://docs.microsoft.com/en-gb/learn/certifications/azure-iot-developer-specialty/"><img src="https://img.shields.io/badge/Azure--IoT--Speciality-in--training-blue.svg"/></a>
+<a href="https://docs.microsoft.com/en-gb/learn/certifications/azure-iot-developer-specialty/"><img src="https://img.shields.io/badge/Azure--IoT--Speciality-not--certified-red.svg"/></a>
