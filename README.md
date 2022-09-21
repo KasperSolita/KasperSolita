@@ -25,11 +25,14 @@
 <a href="https://knowledge.softwareag.com/enrol/index.php?id=1742"><img src="https://img.shields.io/badge/Software--AG-not--certified-red.svg"/></a>
 
 ### Cloud:
-
-<a href="https://cloud.google.com/certification/cloud-digital-leader"><img src="https://img.shields.io/badge/Google--Cloud--Digital--Leader-next--up-orange.svg"/></a>
+<a href="https://cloud.google.com/certification/cloud-digital-leader"><img src="https://img.shields.io/badge/Google--Cloud--Digital--Leader-in--training-blue.svg"/></a>
 
 ### Data:
 <a href="https://www.snowflake.com/certifications"><img src="https://img.shields.io/badge/Snowpro--Core-not--certified-red.svg"/></a>
+
+### DevOps
+
+<a href="https://www.hashicorp.com/certification/terraform-associate"><img src="https://img.shields.io/badge/Terraform--Associate-next--up-orange.svg"/></a>
 
 ### Extra:
 <a href="https://docs.microsoft.com/en-gb/learn/certifications/azure-iot-developer-specialty/"><img src="https://img.shields.io/badge/Azure--IoT--Speciality-not--certified-red.svg"/></a>
