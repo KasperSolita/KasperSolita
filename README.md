@@ -17,6 +17,7 @@
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204"><img src="https://img.shields.io/badge/Azure--Developer--Associate-certified-green.svg"/></a>
 <a href="https://docs.microsoft.com/en-gb/learn/certifications/exams/sc-900"><img src="https://img.shields.io/badge/Azure--Security,--Compliance--and--Identity--Fundamentals-certified-green.svg"/></a>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS--Cloud--Practioner-certified-green.svg"/></a>
+<a href="https://www.hashicorp.com/certification/terraform-associate"><img src="https://img.shields.io/badge/Terraform--Associate-certified-green.svg"/>
 
 <!-- ## Technologies: -->
 
@@ -29,10 +30,7 @@
 
 ### Data:
 <a href="https://www.snowflake.com/certifications"><img src="https://img.shields.io/badge/Snowpro--Core-not--certified-red.svg"/></a>
-
-### DevOps
-
-<a href="https://www.hashicorp.com/certification/terraform-associate"><img src="https://img.shields.io/badge/Terraform--Associate-next--up-orange.svg"/></a>
+</a>
 
 ### Extra:
 <a href="https://docs.microsoft.com/en-gb/learn/certifications/azure-iot-developer-specialty/"><img src="https://img.shields.io/badge/Azure--IoT--Speciality-not--certified-red.svg"/></a>
