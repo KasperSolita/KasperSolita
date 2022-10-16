@@ -32,5 +32,8 @@
 <a href="https://www.snowflake.com/certifications"><img src="https://img.shields.io/badge/Snowpro--Core-not--certified-red.svg"/></a>
 </a>
 
+### Devops:
+<a href="https://learn.microsoft.com/en-gb/certifications/devops-engineer/"><img src="https://img.shields.io/badge/Azure--DevOps--Engineer--Expert-In--training-blue.svg"/></a>
+
 ### Extra:
 <a href="https://docs.microsoft.com/en-gb/learn/certifications/azure-iot-developer-specialty/"><img src="https://img.shields.io/badge/Azure--IoT--Speciality-not--certified-red.svg"/></a>
