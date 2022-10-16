@@ -18,7 +18,7 @@
 <a href="https://docs.microsoft.com/en-gb/learn/certifications/exams/sc-900"><img src="https://img.shields.io/badge/Azure--Security,--Compliance--and--Identity--Fundamentals-certified-green.svg"/></a>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS--Cloud--Practioner-certified-green.svg"/></a>
 <a href="https://www.hashicorp.com/certification/terraform-associate"><img src="https://img.shields.io/badge/Terraform--Associate-certified-green.svg"/>
-
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104"><img src="https://img.shields.io/badge/Azure--Administrator--Associate-certified-green.svg"/></a>
 <!-- ## Technologies: -->
 
 ## Goals:
