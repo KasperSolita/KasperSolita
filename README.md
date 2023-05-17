@@ -20,6 +20,7 @@
 <a href="https://www.hashicorp.com/certification/terraform-associate"><img src="https://img.shields.io/badge/Terraform--Associate-certified-green.svg"/>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104"><img src="https://img.shields.io/badge/Azure--Administrator--Associate-certified-green.svg"/></a>
 <a href="https://learn.microsoft.com/en-gb/certifications/exams/az-400"><img src="https://img.shields.io/badge/Azure--DevOps--Engineer--Expert-certified-green.svg"/></a>
+<a href="https://docs.microsoft.com/en-gb/certifications/exams/az-220"><img src="https://img.shields.io/badge/Azure--IoT--Speciality-certified-green.svg"/></a>
 <!-- ## Technologies: -->
 
 ## Goals:
@@ -34,7 +35,6 @@
 </a>
 
 ### Devops:
-<a href="https://learn.microsoft.com/en-gb/certifications/devops-engineer/"><img src="https://img.shields.io/badge/Azure--DevOps--Engineer--Expert-In--training-blue.svg"/></a>
+
 
 ### Extra:
-<a href="https://docs.microsoft.com/en-gb/learn/certifications/azure-iot-developer-specialty/"><img src="https://img.shields.io/badge/Azure--IoT--Speciality-not--certified-red.svg"/></a>
