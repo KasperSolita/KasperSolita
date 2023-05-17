@@ -34,7 +34,5 @@
 <a href="https://www.snowflake.com/certifications"><img src="https://img.shields.io/badge/Snowpro--Core-not--certified-red.svg"/></a>
 </a>
 
-### Devops:
-
-
-### Extra:
+### AI:
+<a href="https://learn.microsoft.com/en-us/certifications/azure-ai-engineer"><img src="https://img.shields.io/badge/Azure--AI--Engineer-not--certified-red.svg"/></a>
