@@ -28,8 +28,8 @@
 <a href="https://knowledge.softwareag.com/enrol/index.php?id=1742"><img src="https://img.shields.io/badge/Software--AG-not--certified-red.svg"/></a>
 
 ### Cloud:
+<a href="https://learn.microsoft.com/en-us/certifications/azure-security-engineer/"><img src="https://img.shields.io/badge/Azure--Security--Engineer-next--up-blue.svg"/></a>
 <a href="https://cloud.google.com/certification/cloud-digital-leader"><img src="https://img.shields.io/badge/Google--Cloud--Digital--Leader-postponed-black.svg"/></a>
-
 ### Data:
 <a href="https://www.snowflake.com/certifications"><img src="https://img.shields.io/badge/Snowpro--Core-not--certified-red.svg"/></a>
 </a>
