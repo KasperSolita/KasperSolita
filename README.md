@@ -1,8 +1,8 @@
 # About me:
 - 👋 Hi, I’m @KasperSolita
 - 👀 I’m interested in making in an impact that lasts
-- 🌱 I’m currently learninging for the AZ-104 Exam
-- 🦺 For the moment i am working on the Belgium payroll integation. As a side-project I am working on a full refactor of the exam simulator. Besides this I am also guiding the interns with their projects!
+- 🌱 I’m currently learning for the AZ-500 Exam
+- 🦺 For the moment i am working @ Argenta (Belgium) as a Junior DevOps Engineer. As a side-project I am working on a full refactor of the exam simulator. Besides this I am also just started the Azure Integration Toolkit project!
 - 📫 How to reach me: kasper.toetenel@solita.fi
 
 ## Certifications:
