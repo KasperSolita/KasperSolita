@@ -28,7 +28,7 @@
 <a href="https://knowledge.softwareag.com/enrol/index.php?id=1742"><img src="https://img.shields.io/badge/Software--AG-not--certified-red.svg"/></a>
 
 ### Cloud:
-<a href="https://learn.microsoft.com/en-us/certifications/azure-security-engineer/"><img src="https://img.shields.io/badge/Azure--Security--Engineer-next--up-blue.svg"/></a>
+<a href="https://learn.microsoft.com/en-us/certifications/azure-security-engineer/"><img src="https://img.shields.io/badge/Azure--Security--Engineer-in--training-orange.svg"/></a>
 <a href="https://cloud.google.com/certification/cloud-digital-leader"><img src="https://img.shields.io/badge/Google--Cloud--Digital--Leader-postponed-black.svg"/></a>
 <a href="https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/"><img src="https://img.shields.io/badge/Azure--Solutions--Architect-not--certified-red.svg"/></a>
 
