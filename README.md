@@ -21,20 +21,17 @@
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104"><img src="https://img.shields.io/badge/Azure--Administrator--Associate-certified-green.svg"/></a>
 <a href="https://learn.microsoft.com/en-gb/certifications/exams/az-400"><img src="https://img.shields.io/badge/Azure--DevOps--Engineer--Expert-certified-green.svg"/></a>
 <a href="https://docs.microsoft.com/en-gb/certifications/exams/az-220"><img src="https://img.shields.io/badge/Azure--IoT--Speciality-certified-green.svg"/></a>
+<a href="https://cloud.google.com/certification/cloud-digital-leader"><img src="https://img.shields.io/badge/Google--Cloud--Digital--Leader-certified-green.svg"/></a>
+<a href="https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/"><img src="https://img.shields.io/badge/Azure--Solutions--Architect-certified-green.svg"/></a>
 <!-- ## Technologies: -->
 
 ## Goals:
 ### Integration:
-<a href="https://knowledge.softwareag.com/enrol/index.php?id=1742"><img src="https://img.shields.io/badge/Software--AG-not--certified-red.svg"/></a>
 
 ### Cloud:
 <a href="https://learn.microsoft.com/en-us/certifications/azure-security-engineer/"><img src="https://img.shields.io/badge/Azure--Security--Engineer-in--training-orange.svg"/></a>
-<a href="https://cloud.google.com/certification/cloud-digital-leader"><img src="https://img.shields.io/badge/Google--Cloud--Digital--Leader-postponed-black.svg"/></a>
-<a href="https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/"><img src="https://img.shields.io/badge/Azure--Solutions--Architect-not--certified-red.svg"/></a>
 
 ### Data:
-<a href="https://www.snowflake.com/certifications"><img src="https://img.shields.io/badge/Snowpro--Core-not--certified-red.svg"/></a>
-</a>
 
 ### AI:
 <a href="https://learn.microsoft.com/en-us/certifications/azure-ai-engineer"><img src="https://img.shields.io/badge/Azure--AI--Engineer-not--certified-red.svg"/></a>
